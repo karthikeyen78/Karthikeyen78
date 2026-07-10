@@ -1,5 +1,5 @@
 <h1 align="center">GM🚀 👋, I'm Karthikeyen K</h1>
-<h3 align="center">Passionate undergrad who's into Full Stack Development and web3!💻⛓</h3>
+<h3 align="center">Passionate undergrad who's into Full Stack Development and Data Structures!💻⛓</h3>
 
 <p align="left"> <a href="https://twitter.com/karthick_78" target="blank"><img src="https://img.shields.io/twitter/follow/karthick_78?logo=twitter&style=for-the-badge" alt="karthick_78" /></a> </p>
 
